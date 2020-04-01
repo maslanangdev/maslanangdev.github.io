@@ -9,7 +9,7 @@ untuk pekerjaan tentang desain grafis bisa kunjungi [RJ95 Blog](https://rj95.hom
 ### Inkporter for Windows (Native)
 Inkporter merupakan tool sederhana yang dikembangkan oleh @raniaamina untuk mengekspor berkas svg bedasarkan pola pada nama object id yang aslinya dikembangkan untuk sistem operasi linux
 
-![image of tampilan_inkporter](https://github.com/maslanangdev/maslanangdev.github.io/blob/master/page_images/tampilan_inkporter.png)
+![image of tampilan_inkporter](/page_images/tampilan_inkporter.png)
 
 Tool ini merupakan versi .bat dari Inkporter untuk CMD Windows (native) yang ditulis oleh RJ95
 sehingga pengguna Windows dapat melakukan batch expor svg tanpa menginstall WSL (Windows Subsystem for Linux)
