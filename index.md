@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Selamat datang di page saya
 
-You can use the [editor on GitHub](https://github.com/maslanangdev/maslanangdev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Page ini berisi tentang pekerjaan saya yang berhubungan tentang coding dan pemrograman
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+untuk pekerjaan tentang desain grafis bisa kunjungi https://rj95.home.blog (udah lama nggak post disana)
 
-### Markdown
+### Pekerjaan Terkini
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Inkporter for Windows (Native)
+Inkporter merupakan tool sederhana yang dikembangkan oleh @raniaamina untuk mengekspor berkas svg bedasarkan pola pada nama object id yang aslinya dikembangkan untuk sistem operasi linux
 
-```markdown
-Syntax highlighted code block
+![image of tampilan_inkporter](https://github.com/maslanangdev/inkporter/blob/windows/tutorial_image/tampilan_inkporter.png)
 
-# Header 1
-## Header 2
-### Header 3
+Tool ini merupakan versi .bat dari Inkporter untuk CMD Windows (native) yang ditulis oleh RJ95
+sehingga pengguna Windows dapat melakukan batch expor svg tanpa menginstall WSL (Windows Subsystem for Linux)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maslanangdev/maslanangdev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+untuk selengkapnya bisa dilihat di repo fork saya [di sini](https://github.com/maslanangdev/inkporter) atau di repo master inkporter milik [Rania Amina](https://github.com/raniaamina/inkporter) 
